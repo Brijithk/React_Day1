@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  /* Full viewport height */
+    background-color: #f7f9fc;  /* Light background color */
+  }
+  
+  .heading {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+  }
+  
